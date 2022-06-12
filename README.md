@@ -1,9 +1,11 @@
 # ⚫️ blackmode
 A collection of stylesheets to enable AMOLED pure black theme on some apps.
 
+## Light vs dark vs black
+
 ![lightmode](https://user-images.githubusercontent.com/32501733/173233135-fb314b68-4e8b-426e-8a2b-be55cb873d0a.gif)
 
-I guess it does makes sense that most content on the web uses white backgrounds. It's called "whitespace" after all. On the other hand, whitespace is a term used for printmaking, so If pixels are the ink of a UI then those same areas on a screen may be defined by the absence of pixels, or the absence of light.
+It kinda makes sense that most content on the web uses white backgrounds. It's called "whitespace" after all. On the other hand, whitespace is a term used for printmaking, so If pixels are the ink of a UI then those same areas on a screen may be defined by the absence of pixels, or the absence of light.
 
 It's easy to create a cohesive theme with pure black, considering most dark themes use a slightly different shade of gray.
 
