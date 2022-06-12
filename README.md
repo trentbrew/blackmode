@@ -13,7 +13,7 @@ I guess it makes sense that most content on the web uses white backgrounds. It's
 ## Examples:
 
 - ### GitHub
-<img width="1672" alt="image" src="https://user-images.githubusercontent.com/32501733/173226989-ca1e3197-81b6-4639-abb9-21fc5405c19f.png">
+<img width="1669" alt="image" src="https://user-images.githubusercontent.com/32501733/173234037-f2ff86d8-3782-436b-bc04-38cb334b2f1d.png">
 
 - ### Notion
 <img width="1672" alt="image" src="https://user-images.githubusercontent.com/32501733/173226729-1f8cc345-8782-4f6f-971e-b6f61e019b74.png">
