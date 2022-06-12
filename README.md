@@ -2,7 +2,12 @@
 A collection of stylesheets for a pure black AMOLED theme across commonly used web apps. Use Amino Editor Chrome Extension to preload stylesheets: https://aminoeditor.com
 
 ## Why tho?
-Whitespace is a term defining the areas of a page without print or pictures. This makes sense for paper but not so much for screens. If pixels are the ink of a UI, then those same areas may be defined by the absence of pixels, or the absence of light~
+
+https://media.giphy.com/media/LRCxXWRljt4LYf6AK1/giphy.gif
+
+☝ Light mode is yucky
+
+I guess it makes sense for most content on the web to have a white background. It's called "whitespace" after all. On the other hand, whitespace is a term used for printmaking, defining the areas of a page without words or pictures. If pixels are the ink of a UI, then those same areas on a screen may be defined by the absence of pixels, or the absence of light
 
 ## Examples:
 
