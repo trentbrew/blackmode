@@ -3,7 +3,7 @@ A collection of stylesheets for a pure black AMOLED theme across commonly used w
 
 ## Why tho?
 
-![image](https://user-images.githubusercontent.com/32501733/173233049-ad69fe2b-20a3-40e6-8c4c-1b0db023a4fc.png)
+![lightmode](https://user-images.githubusercontent.com/32501733/173233135-fb314b68-4e8b-426e-8a2b-be55cb873d0a.gif)
 
 ☝ Light mode is yucky
 
