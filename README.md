@@ -1,12 +1,7 @@
 # ⚫️ blackmode
-A collection of stylesheets for pure black AMOLED themes across commonly used web apps.<br/>
-Use Amino Editor Chrome Extension to preload stylesheets: https://aminoeditor.com
-
-## Why tho?
+A collection of stylesheets for an AMOLED pure black theme across common apps, to help avoid this:
 
 ![lightmode](https://user-images.githubusercontent.com/32501733/173233135-fb314b68-4e8b-426e-8a2b-be55cb873d0a.gif)
-
-Light mode is yucky:/
 
 I guess it makes sense that most content on the web uses white backgrounds. It's called "whitespace" after all. On the other hand, whitespace is a term used for printmaking, defining the areas of a page without words or pictures. If pixels are the ink of a UI, then those same areas on a screen may be defined by the absence of pixels, or the absence of light
 
