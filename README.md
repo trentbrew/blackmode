@@ -1,6 +1,6 @@
 # ⚫️ blackmode
->A collection of stylesheets for pure black AMOLED themes across commonly used web apps.
->Use Amino Editor Chrome Extension to preload stylesheets: https://aminoeditor.com
+A collection of stylesheets for pure black AMOLED themes across commonly used web apps.<br/>
+Use Amino Editor Chrome Extension to preload stylesheets: https://aminoeditor.com
 
 ## Why tho?
 
