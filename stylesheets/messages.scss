@@ -1,0 +1,57 @@
+#loader, 
+.dark-theme mws-header, 
+.dark-theme mw-main-nav, 
+.dark-theme mw-conversation-container, 
+.bottom-anchored-content, 
+.mw-fab-link, 
+.mat-focus-indicator {
+    background: black !important;
+	box-shadow: none !important;
+}
+.mat-button-wrapper span, .fab-label {
+	display: none !important;
+}
+.input-background {
+	background: linear-gradient(transparent, black) !important;
+}
+.text-msg-content {
+	background: #181818;
+}
+.outgoing .text-msg-content {
+	background: #111111 !important;
+}
+.input-box {
+	background: #ffffff18 !important;
+    backdrop-filter: blur(36px);
+}
+.send-button {
+	background: white !important;
+}
+.send-icon, .send-icon-lock {
+	fill: black !important;
+    color: black !important;
+}
+.input-box textarea {
+	background: transparent !important;
+}
+.text-msg {
+	color: white;
+}
+.start-chat {
+	margin: 0px !important;
+}
+.main-nav-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main-nav-header, mws-header {
+	border-bottom: 1px solid #202124 !important;
+}
+.logo {
+    height: 45px !important;
+    margin: 0px !important;
+}
+.picker-button {
+    background: transparent !important;
+}

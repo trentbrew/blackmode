@@ -1,0 +1,6 @@
+[data-preferred-theme=dark]:not([data-editor-theme="whiteboard"]):not([data-editor-theme="dev-handoff"]) {
+    --color-bg: #000000;
+    --color-bg-toolbar: #000000;
+    --color-border: #212121;
+    --color-conditionalborder: #212121;
+}

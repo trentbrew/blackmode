@@ -1,0 +1,21 @@
+$border: 2px solid rgba(255,255,255,0.1);
+html[dark], [dark] {
+    --yt-spec-brand-background-primary: #000;
+    --yt-spec-general-background-a: #000;
+    --yt-spec-brand-background-solid: #000;
+}
+body {
+    background: black !important;
+}
+#chips-wrapper {
+    border: none !important;
+}
+#masthead-container::after {
+    border-bottom: $border;
+}
+#single-column-container {
+    border-top: $border;
+}
+#guide-content, ytd-mini-guide-renderer {
+    border-right: $border;
+}
