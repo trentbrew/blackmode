@@ -26,11 +26,3 @@ A collection of stylesheets to enable AMOLED pure black theme on some apps.
 - ### OpenAI
 ![image](https://user-images.githubusercontent.com/32501733/173227774-d0292e23-7ffc-4281-87b8-83e29adfa391.png)
 ![image](https://user-images.githubusercontent.com/32501733/173227760-a27370cb-fcd6-42fc-bfd1-b123380861b5.png)
-
-<br>
-
-It kinda makes sense that most content on the web uses white backgrounds. It's called "whitespace" after all. On the other hand, whitespace is a term used for printmaking, so If pixels are the ink of a UI then those same areas on a screen may be defined by the absence of pixels, or the absence of light. Else-wise you end up with this:
-
-![lightmode](https://user-images.githubusercontent.com/32501733/173233135-fb314b68-4e8b-426e-8a2b-be55cb873d0a.gif)
-
-Common dark themes are okay, most apps use varying shades of gray and it can be difficult to create a cohesive theme across your system. This isn't a problem with true black.
