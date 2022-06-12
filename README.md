@@ -8,7 +8,7 @@ Use Amino Editor Chrome Extension to preload stylesheets: https://aminoeditor.co
 
 Light mode is yucky
 
-I guess it makes sense for most content on the web to have a white background. It's called "whitespace" after all. On the other hand, whitespace is a term used for printmaking, defining the areas of a page without words or pictures. If pixels are the ink of a UI, then those same areas on a screen may be defined by the absence of pixels, or the absence of light
+I guess it makes sense that most content on the web has white backgrounds. It's called "whitespace" after all. On the other hand, whitespace is a term used for printmaking, defining the areas of a page without words or pictures. If pixels are the ink of a UI, then those same areas on a screen may be defined by the absence of pixels, or the absence of light
 
 ## Examples:
 
