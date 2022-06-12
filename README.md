@@ -5,7 +5,7 @@ A collection of stylesheets for a pure black theme across apps - to help avoid:
 
 I guess it does makes sense that most content on the web uses white backgrounds. It's called "whitespace" after all. On the other hand, whitespace is a term used for printmaking, so If pixels are the ink of a UI then those same areas on a screen may be defined by the absence of pixels, or the absence of light.
 
-It's easy to create a cohesive theme with pure black, since most dark mode themes use a slightly different shade of gray.
+It's easy to create a cohesive theme with pure black, considering most dark themes use a slightly different shade of gray.
 
 ## Examples:
 
