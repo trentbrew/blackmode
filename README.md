@@ -1,7 +1,10 @@
 # ⚫️ blackmode
 A collection of stylesheets for a pure black AMOLED theme across commonly used web apps. Use Amino Editor Chrome Extension to preload stylesheets: https://aminoeditor.com
 
-Examples:
+## Why tho?
+Whitespace is a term defining the areas of a page without print or pictures. This makes sense for paper but not so much for screens. If pixels are then ink of a UI, we should define those same areas by the absense of pixels, or the absense of light 
+
+## Examples:
 
 - ### GitHub
 <img width="1672" alt="image" src="https://user-images.githubusercontent.com/32501733/173226989-ca1e3197-81b6-4639-abb9-21fc5405c19f.png">
