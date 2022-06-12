@@ -1,5 +1,5 @@
 # ⚫️ blackmode
-A collection of stylesheets for AMOLED pure black theme across common apps, to help avoid this:
+A collection of stylesheets for AMOLED pure black theme across common apps - to help avoid:
 
 ![lightmode](https://user-images.githubusercontent.com/32501733/173233135-fb314b68-4e8b-426e-8a2b-be55cb873d0a.gif)
 
