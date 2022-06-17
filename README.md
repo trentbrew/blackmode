@@ -3,7 +3,7 @@ A collection of stylesheets to enable AMOLED pure black theme on some apps.
 
 <br/>
 
-Examples:
+## Examples:
 
 - ### GitHub
 <img width="1672" alt="image" src="https://user-images.githubusercontent.com/32501733/173234098-5a617ac5-f7ee-4025-b4bf-e4f35856a3a6.png">
