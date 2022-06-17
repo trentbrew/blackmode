@@ -1,8 +1,6 @@
 # ⚫️ blackmode
 A collection of stylesheets to enable AMOLED pure black theme on some apps.
 
-<br/>
-
 ## Examples
 
 - ### GitHub
