@@ -1,10 +1,24 @@
+.dark-theme mw-fab-link {
+    --fab-icon-container-bg-color: transparent !important;
+}
+
+.contact-chip-input {
+    background: black !important;
+    border-bottom: 1px solid #212121;
+    input {
+        background: transparent !important;
+    }
+}
+
 #loader, 
 .dark-theme mws-header, 
 .dark-theme mw-main-nav, 
+.dark-theme mw-main-landing,
 .dark-theme mw-conversation-container, 
 .bottom-anchored-content, 
 .mw-fab-link, 
-.mat-focus-indicator {
+.mat-focus-indicator,
+.scrollable-content {
     background: black !important;
 	box-shadow: none !important;
 }
