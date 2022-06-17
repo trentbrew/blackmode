@@ -7,6 +7,9 @@ html[dark], [dark] {
 body {
     background: black !important;
 }
+ytd-two-column-browse-results-render[page-subtype="home"] {
+    display: none !important;
+}
 #chips-wrapper {
     border: none !important;
 }
