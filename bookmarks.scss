@@ -1,0 +1,71 @@
+:root {
+  --bookmark-caption-bg: transparent;
+  --bookmark-logo-size: 42px;
+  --bookmark-dropzone-outline-width: 1px;
+}
+.grid {
+  grid-auto-rows: 118px;
+}
+.bookmark__wrap {
+  height: 118px;
+}
+.bookmark__dropzone {
+  display: none;
+}
+.bookmark__title {
+  padding-left: 12px;
+  padding-right: 12px;
+}
+.bookmark__caption {
+  z-index: 99999;
+  letter-spacing: 1px;
+  padding-left: 6px !important;
+  line-height: 20px !important;
+  font-size: 12px !important;
+}
+.bookmark__caption:after {
+  display: none !important;
+}
+.bookmark--folder img {
+  display: none !important;
+}
+.bookmark__action {
+  transition: 200ms;
+  margin-top: 6px;
+  background-color: transparent;
+}
+.bookmark__action:hover {
+  transform: scale(0.9);
+}
+.bookmark {
+  transition: 100ms;
+}
+.bookmark--create {
+  transition: 100ms;
+}
+.bookmark:hover, .bookmark--create:hover {
+  background-color: #333 !important;
+}
+.bookmark:active, .bookmark--create:active {
+  transform: scale(0.96);
+}
+.bookmark__title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: no-wrap;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 12px;
+}
+.bookmark__img--folder {
+  background-size: 40%;
+}
+.bookmark--ghost {
+  opacity: 0;
+}
+@media only screen and (max-width: 1400px) {
+  .grid {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  }
+}
