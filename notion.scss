@@ -1,4 +1,8 @@
-.notion-topbar {
+.notion-topbar, 
+.notion-app-inner 
+> div 
+> div:nth-child(2) 
+> div {
     background: black !important;
     border-bottom: 1px solid #212121;
 }
@@ -12,26 +16,6 @@
 .notion-sidebar > div {
     background: black !important;
     border: solid 1px #212121;
-}
-.notion-topbar {
-    background: black !important;
-    border-bottom: 1px solid #212121;
-}
-.notion-sidebar-container {
-    background: black !important;   
-    border-right: 1px solid #212121;
-}
-.notion-sidebar > div {
-    background: black !important;
-    border: solid 1px #212121;
-}
-.notion-topbar {
-    background: black !important;
-    border-bottom: 1px solid #212121;
-}
-.notion-sidebar-container {
-    background: black !important;   
-    border-right: 1px solid #212121;
 }
 .notion-peek-renderer > div:nth-child(2) {
     background: black !important;
