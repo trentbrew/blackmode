@@ -1,16 +1,16 @@
 .notion-page-content img {
-    border: 1px solid #212121;
+    border: 1px solid #272727;
     border-radius: 6px !important;
 }
 .notion-topbar, 
 .notion-app-inner 
 > div 
-> div:nth-child(2) 
+> div:nth-child(1) 
 > div {
     background: black !important;
-    border-bottom: 1px solid #212121;
+    border-bottom: 1px solid #272727;
 }
-.notion-frame, .notion-frame, .notion-collection_view-block > div:nth-child(1), .notion-peek-renderer > div:nth-child(1)  {
+.notion-frame {
     background: black !important;
 }
 .notion-sidebar-container {
@@ -21,10 +21,17 @@
     background: black !important;
     border: solid 1px #212121;
 }
+.notion-peek-renderer {
+    background: rbga(black, 0.3) !important;
+    backdrop-filter: saturate(120%) blur(42px);
+}
 .notion-peek-renderer > div:nth-child(2) {
-    background: black !important;
-    border: 1px solid #111;
+    background: rgba(black, 0.5) !important;
+    border: 2px solid rgba(white, 0.1);
+    border-radius: 8px !important;
 }
 .notion-peek-renderer > div:nth-child(2) > div:nth-child(1)  {
-    background: #111 !important;
+    background: transparent !important;
+    border-bottom: 2px solid rgba(white, 0.1);
+    backdrop-filter: saturate(120%) blur(42px);
 }
