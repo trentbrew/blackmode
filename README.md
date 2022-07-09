@@ -7,7 +7,7 @@ A collection of stylesheets to enable AMOLED pure black theme on some apps.
 <img width="1672" alt="image" src="https://user-images.githubusercontent.com/32501733/173234098-5a617ac5-f7ee-4025-b4bf-e4f35856a3a6.png">
 
 - ### Notion
-<img width="1665" alt="image" src="https://user-images.githubusercontent.com/32501733/178092928-505bfe43-c378-4391-9705-8b7d13a5fced.png">
+<img width="1675" alt="image" src="https://user-images.githubusercontent.com/32501733/178092950-0cb8deab-40e0-4426-8039-f4a6f2666502.png">
 
 - ### Figma
 <img width="1672" alt="image" src="https://user-images.githubusercontent.com/32501733/173226965-eeb05e4a-5624-486a-9c5b-2e28856e352a.png">
