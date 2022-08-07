@@ -34,3 +34,6 @@
     border-bottom: 2px solid rgba(white, 0.1);
     backdrop-filter: saturate(120%) blur(42px);
 }
+#notion-app > div > div > div:nth-child(2) > div:nth-child(1) {
+    background: black !important;
+}
