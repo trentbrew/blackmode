@@ -24,10 +24,6 @@ A collection of stylesheets to enable AMOLED pure black theme on some apps.
 
 <img width="1670" alt="image" src="https://user-images.githubusercontent.com/32501733/173226671-911ffcfd-e1b4-461f-aa25-95d1ea79ef7f.png">
 
-### TickTick
-
-<img width="1680" alt="image" src="https://user-images.githubusercontent.com/32501733/173225169-041e8e26-c42c-4280-a75b-b5d67f5bbd5c.png">
-
 ### OpenAI
 ![image](https://user-images.githubusercontent.com/32501733/173227774-d0292e23-7ffc-4281-87b8-83e29adfa391.png)
 ![image](https://user-images.githubusercontent.com/32501733/173227760-a27370cb-fcd6-42fc-bfd1-b123380861b5.png)
