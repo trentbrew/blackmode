@@ -1,15 +1,18 @@
 body,
-.loading-view,
+.loading-view
 .tk-calendar,
 .dark .dark\:bg-screen-background,
 .dark .dark\:bg-screen-background-default,
+.lists,
 #container-main,
 #leftListView,
 #task-list-view,
-#right-view
+#right-view,
+input[readonly]
 {
-    background: black;
+    background: black !important;
 }
+
 #tl-bar-user img {
     border-radius: 100% !important;
 }
