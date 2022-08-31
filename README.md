@@ -1,7 +1,7 @@
 # ⚫️ blackout
 A collection of stylesheets to enable AMOLED pure black theme on some apps.
 
-## Examples
+## `Examples`
 
 ### GitHub
 
@@ -24,6 +24,11 @@ A collection of stylesheets to enable AMOLED pure black theme on some apps.
 
 <img width="1670" alt="image" src="https://user-images.githubusercontent.com/32501733/173226671-911ffcfd-e1b4-461f-aa25-95d1ea79ef7f.png">
 
+### Visual Bookmarks
+
+![image](https://user-images.githubusercontent.com/32501733/187693052-90fa7c69-533e-4fdc-9425-9fae45701b92.png)
+
 ### OpenAI
+
 ![image](https://user-images.githubusercontent.com/32501733/173227774-d0292e23-7ffc-4281-87b8-83e29adfa391.png)
 ![image](https://user-images.githubusercontent.com/32501733/173227760-a27370cb-fcd6-42fc-bfd1-b123380861b5.png)
