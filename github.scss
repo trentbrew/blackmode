@@ -4,8 +4,8 @@
     --color-canvas-default: #000000;
     --color-canvas-overlay: #111111;
     --color-canvas-subtle: #181818;
-    --color-border-default: #222222;
-    --color-border-muted: #212121;
+    --color-border-default: #333333;
+    --color-border-muted: #222222;
     --color-primer-canvas-backdrop: #000000;
     --color-primer-canvas-sticky: #000000;
     --color-codemirror-lines-bg: #000000;
@@ -14,7 +14,7 @@
 }
 .Header {
     background: #000000 !important;
-    border-bottom: 1px solid #212121;
+    border-bottom: 1.5px solid #333333;
 }
 .btn {
     background: #181818;
@@ -33,6 +33,9 @@
     background: black !important;
 }
 #readme img {
-    border: 1px solid #111;
-    border-radius: 6px;
+    border: 1.5px solid #333333;
+    border-radius: 8px;
+}
+.Box-body {
+    border-radius: 8px !important;
 }
