@@ -1,0 +1,41 @@
+[data-color-mode=light][data-light-theme=dark], [data-color-mode=dark][data-dark-theme=dark] {
+    --color-page-header-bg: #161616;
+    --color-canvas-inset: #161616;
+    --color-canvas-default: #161616;
+    --color-canvas-overlay: #111111;
+    --color-canvas-subtle: #181818;
+    --color-border-default: #333333;
+    --color-border-muted: #222222;
+    --color-primer-canvas-backdrop: #161616;
+    --color-primer-canvas-sticky: #161616;
+    --color-codemirror-lines-bg: #161616;
+    --color-codemirror-gutters-bg: #161616;
+    --color-codemirror-bg: #000000;
+}
+.Header {
+    background: #161616 !important;
+    border-bottom: 1.5px solid #333333;
+}
+.btn {
+    background: #161616;
+}
+.btn-primary {
+    background: white;
+    color: black;
+}
+.btn-primary svg {
+    fill: black;
+}
+.btn-primary:hover {
+    background: #aaa;
+}
+.form-control {
+    background: #222222 !important;
+}
+#readme img {
+    border: 1.5px solid #333333;
+    border-radius: 8px;
+}
+.Box-body {
+    border-radius: 8px !important;
+}
