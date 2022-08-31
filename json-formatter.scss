@@ -1,0 +1,31 @@
+body {
+    background: #161616 !important;
+}
+
+#formattedJson, pre {
+    font-size: 14px !important;
+    filter: invert(1);
+}
+
+#optionBar {
+    position: fixed !important;
+    z-index: 999;
+}
+
+.buttonPlain {
+    box-shadow: none !important;
+    background: white !important;
+    color: black !important;
+    border: none !important;
+}
+
+.buttonnFormatted {
+    box-shadow: none !important;
+    background: black !important;
+    color: white !important;
+    border: none !important;
+}
+
+#optionBar {
+    display: none !important;
+}
