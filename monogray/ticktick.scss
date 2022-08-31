@@ -10,9 +10,14 @@ body,
 #right-view,
 input[readonly]
 {
-    background: black !important;
+    background: #161616 !important;
 }
-
+.border-solid {
+    border-color: #444444 !important;
+}
+.bg-left-sidebar-bg-color-80 {
+    border-right: 1.5px solid #444444;
+}
 #tl-bar-user img {
     border-radius: 100% !important;
 }

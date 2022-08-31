@@ -1,23 +1,23 @@
 [data-color-mode=light][data-light-theme=dark], [data-color-mode=dark][data-dark-theme=dark] {
-    --color-page-header-bg: #161616;
-    --color-canvas-inset: #161616;
-    --color-canvas-default: #161616;
+    --color-page-header-bg: #000000;
+    --color-canvas-inset: #000000;
+    --color-canvas-default: #000000;
     --color-canvas-overlay: #111111;
     --color-canvas-subtle: #181818;
     --color-border-default: #333333;
     --color-border-muted: #222222;
-    --color-primer-canvas-backdrop: #161616;
-    --color-primer-canvas-sticky: #161616;
-    --color-codemirror-lines-bg: #161616;
-    --color-codemirror-gutters-bg: #161616;
-    --color-codemirror-bg: #161616;
+    --color-primer-canvas-backdrop: #000000;
+    --color-primer-canvas-sticky: #000000;
+    --color-codemirror-lines-bg: #000000;
+    --color-codemirror-gutters-bg: #000000;
+    --color-codemirror-bg: #000000;
 }
 .Header {
-    background: #161616 !important;
+    background: #000000 !important;
     border-bottom: 1.5px solid #333333;
 }
 .btn {
-    background: #161616;
+    background: #000000;
 }
 .btn-primary {
     background: white;
