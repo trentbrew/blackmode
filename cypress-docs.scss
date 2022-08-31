@@ -1,0 +1,34 @@
+body {
+    background: black;
+    filter: invert(1);
+}
+
+aside[role="navigation"] {
+    border-right: 1.5px solid #dddddd;
+}
+
+nav {
+    background: black !important;
+    filter: invert(1) !important;
+    border-bottom: 1.5px solid #222222;
+}
+
+img[alt="Cypress Docs Logo"] {
+    filter: invert(0);
+}
+
+img, pre  {
+    filter: invert(1);
+}
+
+pre {
+    background: #222222 !important;
+}
+
+table {
+    filter: brightness(0.9);
+}
+
+.DocSearch {
+    background: #222222 !important;
+}
