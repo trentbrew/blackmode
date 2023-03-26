@@ -1,0 +1,111 @@
+body {
+  filter: grayscale(1) contrast(1.4) brightness(0.9);
+}
+
+#__next
+  > div.overflow-hidden.w-full.h-full.relative
+  > div.flex.h-full.flex-1.flex-col.md\:pl-\[260px\]
+  > main
+  > div.flex-1.overflow-hidden
+  > div
+  > div
+  > div
+  > div.text-gray-800.w-full.md\:max-w-2xl.lg\:max-w-3xl.md\:h-full.md\:flex.md\:flex-col.px-6.dark\:text-gray-100
+  > div {
+  display: none;
+}
+
+#__next
+  > div.overflow-hidden.w-full.h-full.relative
+  > div.dark.hidden.bg-gray-900.md\:fixed.md\:inset-y-0.md\:flex.md\:w-\[260px\].md\:flex-col
+  > div
+  > div
+  > nav
+  > a.flex.py-3.px-3.items-center.gap-3.rounded-md.hover\:bg-gray-500\/10.transition-colors.duration-200.text-white.cursor-pointer.text-sm.mb-2.flex-shrink-0.border.border-white\/20 {
+  filter: invert(1);
+  background-color: black;
+  border-radius: 120px;
+  // width: fit-content;
+  // padding-right: 24px;
+}
+
+#__next
+  > div.overflow-hidden.w-full.h-full.relative
+  > div.flex.h-full.flex-1.flex-col.md\:pl-\[260px\]
+  > main
+  > div.flex-1.overflow-hidden
+  > div
+  > div
+  > div
+  > div.text-gray-800.w-full.md\:max-w-2xl.lg\:max-w-3xl.md\:h-full.md\:flex.md\:flex-col.px-6.dark\:text-gray-100 {
+  color: #373737;
+}
+
+#__next
+  > div.overflow-hidden.w-full.h-full.relative
+  > div.flex.h-full.flex-1.flex-col.md\:pl-\[260px\]
+  > main
+  > div.flex-1.overflow-hidden
+  > div
+  > div
+  > div
+  > div.text-gray-800.w-full.md\:max-w-2xl.lg\:max-w-3xl.md\:h-full.md\:flex.md\:flex-col.px-6.dark\:text-gray-100::after {
+  content: "What's up?";
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+}
+
+#__next
+  > div.overflow-hidden.w-full.h-full.relative
+  > div.flex.h-full.flex-1.flex-col.md\:pl-\[260px\]
+  > main
+  > div.absolute.bottom-0.left-0.w-full.border-t.md\:border-t-0.dark\:border-white\/20.md\:border-transparent.md\:dark\:border-transparent.md\:bg-vert-light-gradient.bg-white.dark\:bg-gray-800.md\:\!bg-transparent.dark\:md\:bg-vert-dark-gradient.pt-2
+  > div {
+  opacity: 0;
+}
+
+#__next
+  > div.overflow-hidden.w-full.h-full.relative
+  > div.flex.h-full.flex-1.flex-col.md\:pl-\[260px\]
+  > main
+  > div.absolute.bottom-0.left-0.w-full.border-t.md\:border-t-0.dark\:border-white\/20.md\:border-transparent.md\:dark\:border-transparent.md\:bg-vert-light-gradient.bg-white.dark\:bg-gray-800.md\:\!bg-transparent.dark\:md\:bg-vert-dark-gradient.pt-2
+  > form
+  > div
+  > div.flex.flex-col.w-full.py-2.flex-grow.md\:py-3.md\:pl-4.relative.border.border-black\/10.bg-white.dark\:border-gray-900\/50.dark\:text-white.dark\:bg-gray-700.rounded-md.shadow-\[0_0_10px_rgba\(0\,0\,0\,0\.10\)\].dark\:shadow-\[0_0_15px_rgba\(0\,0\,0\,0\.10\)\] {
+  border-radius: 120px;
+}
+
+#__next
+  > div.overflow-hidden.w-full.h-full.relative
+  > div.flex.h-full.flex-1.flex-col.md\:pl-\[260px\] {
+  padding-left: 0px;
+}
+
+#__next
+  > div.overflow-hidden.w-full.h-full.relative
+  > div.dark.hidden.bg-gray-900.md\:fixed.md\:inset-y-0.md\:flex.md\:w-\[260px\].md\:flex-col {
+  width: 300px !important;
+  border-right: 1.5px solid #444;
+}
+
+#__next
+  > div.overflow-hidden.w-full.h-full.relative
+  > div.dark.hidden.bg-gray-900.md\:fixed.md\:inset-y-0.md\:flex.md\:w-\[260px\].md\:flex-col {
+  display: none;
+}
+
+#__next
+  > div.overflow-hidden.w-full.h-full.relative
+  > div.flex.h-full.flex-1.flex-col.md\:pl-\[260px\]
+  > main
+  > div.absolute.bottom-0.left-0.w-full.border-t.md\:border-t-0.dark\:border-white\/20.md\:border-transparent.md\:dark\:border-transparent.md\:bg-vert-light-gradient.bg-white.dark\:bg-gray-800.md\:\!bg-transparent.dark\:md\:bg-vert-dark-gradient.pt-2
+  > form
+  > div
+  > div.flex.ml-1.md\:w-full.md\:m-auto.md\:mb-2.gap-0.md\:gap-2.justify-center {
+  display: none;
+}
+
+.rounded-sm {
+  border-radius: 120px !important;
+}
