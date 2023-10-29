@@ -1,0 +1,12 @@
+body {
+    background: white;
+    filter: invert(1);
+}
+
+img {
+    filter: invert(1);
+}
+
+button img.js-only-element {
+    filter: invert(0) !important;
+}
