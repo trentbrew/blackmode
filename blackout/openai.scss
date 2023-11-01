@@ -1,8 +1,12 @@
 body {
     background: black;
-    filter: invert(1) hue-rotate(180deg);
+    filter: invert(1);
 }
 
 img {
     filter: invert(1);
+}
+
+.code-sample {
+    filter: invert(1);  
 }
