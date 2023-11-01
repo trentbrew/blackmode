@@ -1,0 +1,9 @@
+html {
+    background: white;
+}
+body {
+    filter: invert(1);
+}
+img, svg {
+    filter: invert(1) !important;
+}
