@@ -1,0 +1,85 @@
+.dark-theme mw-fab-link {
+    --fab-icon-container-bg-color: transparent !important;
+}
+
+body > mw-app > mw-bootstrap > div > main > mw-main-container > div > mw-main-nav > div > mw-fab-link > a > span.mdc-button__label > div > mws-icon > svg {
+    filter: invert(1);
+}
+
+a {
+    box-shadow: none !important;
+}
+
+.banner-container {
+    display: none;
+}
+.contact-chip-input {
+    background: #000000 !important;
+    border-bottom: 1px solid rgba(255,255,255,0.16);
+    input {
+        background: transparent !important;
+    }
+}
+#loader, 
+.dark-theme mws-header, 
+.dark-theme mw-main-nav, 
+.dark-theme mw-main-landing,
+.bottom-anchored-content, 
+.mw-fab-link, 
+.mat-focus-indicator,
+.scrollable-content {
+    background: #212121 !important;
+	box-shadow: none !important;
+}
+.dark-theme mw-conversation-container {
+    background: #212121 !important;
+    box-shadow: none !important;
+    border-left: #333 1px solid !important;
+}
+.mat-button-wrapper span, .fab-label {
+	display: none !important;
+}
+.input-background {
+	background: linear-gradient(transparent, #212121) !important;
+}
+.text-msg-content {
+	background: #333;
+}
+.outgoing .text-msg-content {
+	background: #3a3a3a;
+}
+.input-box {
+	background: #44444488 !important;
+    backdrop-filter: blur(36px);
+}
+.send-button {
+	background: white !important;
+}
+.send-icon, .send-icon-lock {
+	fill: black !important;
+	transform: translate(2px, 5px);
+}
+.input-box textarea {
+	background: transparent !important;
+}
+.text-msg {
+	color: white;
+}
+.start-chat {
+	margin: 0px !important;
+}
+.main-nav-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main-nav-header, mws-header {
+	border-bottom: 1px solid #333 !important;
+}
+.logo {
+    height: 45px !important;
+    margin: 0px !important;
+}
+.picker-button {
+    background: transparent !important;
+}
